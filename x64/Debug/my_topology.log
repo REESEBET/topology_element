@@ -1,0 +1,13 @@
+﻿  my_topology.cpp
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(275,20): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(276,23): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(434,25): warning C4244: return: преобразование "LRESULT" в "long", возможна потеря данных
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(290,19): warning C4101: old_brush: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(290,12): warning C4101: brush: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(289,10): warning C4101: pen: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(289,15): warning C4101: old_pen: неиспользованная локальная переменная
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(442,31): error C2440: =: невозможно преобразовать "long (__cdecl *)(HWND,UINT,WPARAM,LPARAM)" в "WNDPROC"
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(442,24): message : Для преобразования требуется reinterpret_cast, приведение в стиле С или приведение в стиле функции
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(446,38): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(451,45): warning C4302: приведение типов: усечение из "LPWSTR" к "WORD"
+C:\Users\HP\Desktop\ravesli c++\C++\my_topology\my_topology\my_topology.cpp(475,15): warning C4244: return: преобразование "WPARAM" в "int", возможна потеря данных
